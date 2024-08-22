@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Jain</h1>
-<h3 align="center">A pasCSBS Undergrad | Building @team ByteBlaster | Full Stack Web | MERN Stack || Tech Team Member at IEEE SB-AOT and SC CSBS || Winners and Finalists at 5+ Tech Competitions.</h3>
+<h3 align="center">CSBS Undergrad | Building @team ByteBlaster | Full Stack Web | MERN Stack || Tech Team Member at IEEE SB-AOT and SC CSBS || Winners and Finalists at 5+ Tech Competitions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanjain2005&label=Profile%20views&color=0e75b6&style=flat" alt="sumanjain2005" /> </p>
 
