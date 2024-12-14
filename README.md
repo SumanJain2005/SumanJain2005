@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think I am funny L -_-) (:**
 
+[![An image of @sumanjain2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumanjain2005)](https://holopin.io/@sumanjain2005)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-naresh-jain-126a80283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-naresh-jain-126a80283/" height="30" width="40" /></a>
